@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="image.ico" width="120" alt="DocuForge Logo">
+<img width="154" height="117" alt="image" src="https://github.com/user-attachments/assets/8efa49e9-d4f7-43d4-8aee-35717792b6e3" />
 
 # DocuForge Converter Pro
 
