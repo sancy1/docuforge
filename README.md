@@ -21,20 +21,6 @@ Built with Python and a premium dark-themed interface powered by **ttkbootstrap*
 
 Unlike many online converters, **DocuForge operates entirely on your machine**. No files are uploaded, no cloud processing occurs, and no sensitive information ever leaves your computer.
 
----
-
-# 📸 Screenshots
-
-> Insert screenshots directly below. Keeping screenshots near the top ensures GitHub renders them correctly and gives visitors an immediate visual understanding of the application.
-
-![Main Dashboard](INSERT_SCREENSHOT_URL_HERE)
-
-![Batch Conversion](INSERT_SCREENSHOT_URL_HERE)
-
-![Dark Theme Interface](INSERT_SCREENSHOT_URL_HERE)
-
----
-
 # 🚀 Key Features
 
 ## Universal Document Conversion
@@ -361,5 +347,6 @@ See the LICENSE file for full details.
 
 **DocuForge Converter Pro** — Transform Documents with Confidence 
 
+📸 Screenshots
 <img width="1014" height="758" alt="screenshot_20260622_002338" src="https://github.com/user-attachments/assets/147604f0-9c8d-42a3-a5b8-df6aa36473dd" />
 
